@@ -1,6 +1,6 @@
 ---
 title: "Download Windows 7, 8.1, 10, 11 ISO"
-description: "Quick links to download official Windows ISO files."
+description: "Direct MEGA links with access codes for Windows ISO files."
 pubDate: 2025-05-24
 heroImage: "https://i.rj1.dev/wnJanVz"
 readingTime: "2 min read"
@@ -9,21 +9,33 @@ tags: ["Windows", "downloads", "ISO files"]
 
 # Download Windows 7, 8.1, 10, 11 ISO
 
-Easily grab the official ISO files for different Windows versions from the links below.
+Quickly download Windows ISO files using the links and codes below.
 
 ## Download Links
 
-- **Windows 7 ISO**: [Download Here](your-link-here)
-- **Windows 8.1 ISO**: [Download Here](your-link-here)
-- **Windows 10 ISO**: [Download Here](your-link-here)
-- **Windows 11 ISO**: [Download Here](your-link-here)
+- **Windows 7**  
+  🔗 [Download Link](https://mega.nz/file/TM4DwSYb#)  
+  🔐 Code: `fdVDeEvkIWMTCb2MKdeO-UJ1ZoJMjZxlcBtXTzA8np0`
+
+- **Windows 8.1**  
+  🔗 [Download Link](https://mega.nz/file/PUIHFDxD#)  
+  🔐 Code: `fox9owBaCSyQ3tKVb4UoLT0ydRdKI-594xyMmWAuoYY`
+
+- **Windows 10**  
+  🔗 [Download Link](https://mega.nz/file/mAxgjCxZ#)  
+  🔐 Code: `QQkI4EaZgcflOYo3VbuBcTWLn3McmhEnrIWkgWRb2Gg`
+
+- **Windows 11**  
+  🔗 [Download Link](https://mega.nz/file/nNRAHIoC#)  
+  🔐 Code: `Oeg7dn5fge7syBFSQEviJh6KEn8-zga_1Q_pZXx5xtU`
 
 ## How to Use
 
-1. Download the ISO file.
-2. Use tools like **Rufus** to create a bootable USB.
-3. Install or upgrade your system.
+1. Click the download link.
+2. Enter the provided code.
+3. Download the ISO.
+4. Use **Rufus** or similar to make a bootable USB.
 
 ## Note
 
-Always verify your product key and download from trusted sources.
+Use for educational or recovery purposes. Verify license keys before installation.
