@@ -2,8 +2,8 @@
 title: "How to Use Rufus to Create a Bootable USB"
 description: "A simple step-by-step guide to create bootable USB drives using Rufus."
 pubDate: 2025-05-24
-heroImage: "https://i.rj1.dev/YOUR-RUFUS-IMAGE-LINK"
-readingTime: "2 min read"
+heroImage: "https://i.rj1.dev/qmPTSDv"
+readingTime: "1 min read"
 tags: ["rufus", "bootable usb", "windows tools", "software"]
 ---
 
