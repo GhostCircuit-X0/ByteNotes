@@ -2,7 +2,7 @@
 title: "Download Windows 7, 8.1, 10, 11 ISO"
 description: "Quick links to download official Windows ISO files."
 pubDate: 2025-05-24
-heroImage: "/windows.jpg"
+heroImage: "https://i.rj1.dev/wnJanVz"
 readingTime: "2 min read"
 tags: ["Windows", "downloads", "ISO files"]
 ---
