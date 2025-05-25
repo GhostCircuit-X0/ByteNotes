@@ -2,7 +2,7 @@
 title: "Linux ISO Download Links (2025)"
 description: "Quick download links for popular Linux ISO files."
 pubDate: 2025-05-24
-heroImage: "https://i.rj1.dev/b5bW1ga"
+heroImage: "https://i.rj1.dev/kmKcMrc"
 readingTime: "1 min read"
 tags: ["linux", "iso download", "operating systems", "tools"]
 ---
