@@ -17,7 +17,8 @@ Handy links to download the latest Linux distro ISOs for testing, installing, or
 
 - **MEGA:** [Download](https://mega.nz/file/kNwhzZyL)  
   Key: `HTuNSx_y0nmfGh3kH5LTWinDF1BtajTd5-7bXgfQs8U`
-- **Transfer.it:** [Download](https://transfer.it/t/Aq2kVBhBSBpZ)
+- **Transfer.it:** [Download](https://transfer.it/t/Aq2kVBhBSBpZ)  
+  ⏳ **Expires:** 2025-08-22
 
 ---
 
@@ -25,7 +26,8 @@ Handy links to download the latest Linux distro ISOs for testing, installing, or
 
 - **MEGA:** [Download](https://mega.nz/file/1UJSRYrY)  
   Key: `HU4Vfym-K2oqmyFlwXGdjGrklINtw7nedA8Wk-fHyJE`
-- **Transfer.it:** [Download](https://transfer.it/t/2KYK4Nw1ALYL)
+- **Transfer.it:** [Download](https://transfer.it/t/2KYK4Nw1ALYL)  
+  ⏳ **Expires:** 2025-08-22
 
 ---
 
@@ -33,7 +35,8 @@ Handy links to download the latest Linux distro ISOs for testing, installing, or
 
 - **MEGA:** [Download](https://mega.nz/file/cJR3kArQ)  
   Key: `AZxTfmjpUBW1JV9js2zDxilkFwwrMrAs4c8pYs6wyCY`
-- **Transfer.it:** [Download](https://transfer.it/t/V9zAkcxXxbaC)
+- **Transfer.it:** [Download](https://transfer.it/t/V9zAkcxXxbaC)  
+  ⏳ **Expires:** 2025-08-22
 
 ---
 
@@ -41,7 +44,8 @@ Handy links to download the latest Linux distro ISOs for testing, installing, or
 
 - **MEGA:** [Download](https://mega.nz/file/FIoiVTRT)  
   Key: `TKJmCVFkrZDXMDtiK-US70XtbMcxD3UQq5-HQ289YW4`
-- **Transfer.it:** [Download](https://transfer.it/t/gfDTIMgVXJDL)
+- **Transfer.it:** [Download](https://transfer.it/t/gfDTIMgVXJDL)  
+  ⏳ **Expires:** 2025-08-22
 
 ---
 
