@@ -26,8 +26,8 @@ Quickly download Windows ISO files using the links and codes below.
   🔐 Code: `QQkI4EaZgcflOYo3VbuBcTWLn3McmhEnrIWkgWRb2Gg`
 
 - **Windows 11**  
-  🔗 [Download Link](https://mega.nz/file/nNRAHIoC#)  
-  🔐 Code: `Oeg7dn5fge7syBFSQEviJh6KEn8-zga_1Q_pZXx5xtU`
+  🔗 [Download Link](https://mega.nz/file/GB5TSYQa#)  
+  🔐 Code: `cchBAkxZn33COOZyLADRoDK09RUBl6CUujA8gS1q7kw`
 
 ## How to Use
 
