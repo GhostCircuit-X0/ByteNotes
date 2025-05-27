@@ -38,7 +38,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "hike-projec-bytenotes-55"
-          entrypoint: "server/entry.mjs"
+          entrypoint: "server.ts"
           root: "dist"
           
           
