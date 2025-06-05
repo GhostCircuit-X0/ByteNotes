@@ -37,8 +37,8 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "hike-projec-bytenotes-55"
-          entrypoint: "server.ts"
+          project: "byte-notes"
+          entrypoint: "server/entry.mjs"
           root: "dist"
           
           
